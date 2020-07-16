@@ -1,5 +1,5 @@
 # Divisateur
-ça marche pas :-\
+ça marche 
 
 ## C'est quoi?
 Un programme java exécutable qui prend deux arguments numériques (entiers) et calcule leur quotient
